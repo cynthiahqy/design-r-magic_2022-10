@@ -1,0 +1,116 @@
+---
+title: "Designing R Magic"
+author: "Cynthia Huang"
+format: revealjs
+from: markdown+emoji
+---
+
+## Magical Design Questions
+
+-   What Magic are you Creating? <!-- miles mcbain magic talk: https://www.rstudio.com/resources/rstudioconf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages/-->
+
+-   What Powers your Magic?
+
+-   How Can Others Learn your Magic? <!-- docs for everyone: https://meganesulli.com/blog/docs-for-everyone/-->
+
+:::callout-note
+The magic metaphor is basically taken directly from Miles McBain's 2019 RStudioConf Talk *Our colour of magic: The open sourcery of fantastic R packages*
+:::
+
+## What Magic are you Creating?
+
+::: columns
+::: {.column width="60%"}
+[![](images/paste-8C639486.png)](https://www.rstudio.com/resources/rstudioconf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages/)
+:::
+
+::: {.column width="40%"}
+-   :framed_picture: [slides](https://docs.google.com/presentation/d/1iUz3A_xHIzeFIzOQ_JQLdGPbC82qcDEDSqvjIBiP1a8/edit)
+-   :tv: [talk](https://www.rstudio.com/resources/rstudioconf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages/)
+:::
+:::
+
+## What Powers your Magic?
+
+::: columns
+::: {.column width="60%"}
+[![](images/paste-5819DABD.png)](https://www.rstudio.com/resources/rstudioconf-2019/it-depends-a-dialog-about-dependencies/)
+:::
+
+::: {.column width="40%"}
+-   :pencil: [blog post](https://www.tidyverse.org/blog/2019/05/itdepends/)
+-   :tv: [talk](https://www.rstudio.com/resources/rstudioconf-2019/it-depends-a-dialog-about-dependencies/)
+:::
+:::
+
+## How Can Others Learn your Magic?
+
+::: columns
+::: {.column width="60%"}
+![](https://meganesulli.com/static/2c99ba1e928d61e321e7863602ef344a/29007/diataxis-quadrants.png)
+:::
+
+::: {.column width="40%"}
+-   :orange_heart: [Docs for Everyone! by Megan Sullivan](https://meganesulli.com/blog/docs-for-everyone/)
+-   :sparkles: [Diátaxis by Daniele Procida](https://diataxis.fr/)
+:::
+:::
+
+## Into the Magical Weeds
+
+-   Package Design Guides
+
+-   Do we even need this Magic?
+
+-   Magic Making Tools <!-- testing, usethis etc. -->
+
+-   Sharing the Magic <!-- publishing to CRAN --> <!-- usethis -->
+
+-   Maintaining Community Magic (Hackathon?)
+
+## Package Design Guides
+
+-   [rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/index.html)
+-   [rOpenSci Statistical Software Peer Review](https://stats-devguide.ropensci.org/)
+-   [Tidyverse design guide](https://design.tidyverse.org/)
+
+## Do we even need this magic?
+
+-   Should this be a package or maybe just a tutorial?
+-   Reuseable vs. Reproducible?
+
+![Australian Research Data Commons. (2022). A National Agenda for Research Software (1.0). Zenodo. https://doi.org/10.5281/zenodo.6378082](images/paste-194E9749.png)
+
+
+## Magic Making Tools and References
+
+-   [R Packages (2e) by Hadley Wickham and Jenny Bryan](https://r-pkgs.org)
+-   [{devtools}](https://devtools.r-lib.org)
+-   [{usethis}](https://usethis.r-lib.org)
+-   [{testthat}](https://testthat.r-lib.org)
+
+## Sharing the Magic
+
+<!-- https://quarto.org/docs/authoring/callouts.html#callout-types -->
+
+::: callout-warning
+I haven't personally submitted anything ever to CRAN so this is an aspirational resource list for future me.
+:::
+
+### :bookmark_tabs: [Putting your R package on GitHub](https://kbroman.org/pkg_primer/pages/github.html)
+
+### :bookmark_tabs: [Getting your R package on CRAN, Karl Broman](https://kbroman.org/pkg_primer/pages/cran.html)
+
+### :clipboard: [ThinkR-open/prepare-for-cran GitHub Repo](https://github.com/ThinkR-open/prepare-for-cran)
+
+## Maintaining Community Magic
+
+::: callout
+:bulb: Hackathon fixing issues listed on the [rOpenSci Help Wanted](https://ropensci.org/help-wanted/) page?
+:::
+
+<!-- https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/posts/12-html-block/ -->
+
+```{=html}
+<iframe width="100%" height="50%" src="https://ropensci.org/help-wanted/" title="rOpenSci Help Wanted"></iframe>
+```
