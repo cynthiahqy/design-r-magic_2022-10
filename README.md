@@ -18,4 +18,4 @@ Discussion Notes:
     -   maintain two packages -- one for "finalised"" functions and another one for experimentation or project specific workflows
     -   use separate git branches (but also remember no one is judging the stray scraps of code on your github)
     -   create a concept glossary to define the abstractions your package offers, and to track the different names you've considered using to refer to new concepts (e.g. for a function that does something to some input data, you might have used a variety of argument names in your code like: `origin-data`, `raw-data`, `df_in` etc..)
-
+-   Use {lifecycle} labels for experimental functions -- discussed in [Maintaining the house the tidyverse built (Hadley Wickham's Keynote at RStudio::Global 2021)](https://www.rstudio.com/resources/rstudioglobal-2021/maintaining-the-house-the-tidyverse-built/)
