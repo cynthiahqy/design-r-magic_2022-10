@@ -1,4 +1,4 @@
-# Design R Magic
+# Designing R Magic
 
 <!-- badges: start -->
 
