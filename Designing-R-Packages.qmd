@@ -1,5 +1,6 @@
 ---
 title: "Designing R Magic"
+subtitle: "4 Oct 2022, Monash EBS"
 author: "Cynthia Huang"
 format: revealjs
 from: markdown+emoji
@@ -7,7 +8,9 @@ from: markdown+emoji
 
 ## Magical Design Questions
 
--   What Magic are you Creating? <!-- miles mcbain magic talk: https://www.rstudio.com/resources/rstudioconf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages/-->
+-   What Magic are you Creating?
+    
+<!-- miles mcbain magic talk: https://www.rstudio.com/resources/rstudioconf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages/-->
 
 -   What Powers your Magic?
 
@@ -86,8 +89,8 @@ The magic metaphor is basically taken directly from Miles McBain's 2019 RStudioC
 
 -   [R Packages (2e) by Hadley Wickham and Jenny Bryan](https://r-pkgs.org)
 -   [{devtools}](https://devtools.r-lib.org)
--   [{usethis}](https://usethis.r-lib.org)
 -   [{testthat}](https://testthat.r-lib.org)
+-   [{usethis}](https://usethis.r-lib.org)
 
 ## Sharing the Magic
 
