@@ -56,6 +56,7 @@ The magic metaphor is basically taken directly from Miles McBain's 2019 RStudioC
 ::: {.column width="40%"}
 -   :orange_heart: [Docs for Everyone! by Megan Sullivan](https://meganesulli.com/blog/docs-for-everyone/)
 -   :sparkles: [Diátaxis by Daniele Procida](https://diataxis.fr/)
+-   :clipboard: [The Documentation System, Divio](https://documentation.divio.com) derived from Diataxis
 :::
 :::
 
@@ -91,6 +92,15 @@ The magic metaphor is basically taken directly from Miles McBain's 2019 RStudioC
 -   [{devtools}](https://devtools.r-lib.org)
 -   [{testthat}](https://testthat.r-lib.org)
 -   [{usethis}](https://usethis.r-lib.org)
+-   [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/index.html)
+
+## Testing the Magic
+
+-   Use internal data objects to store test cases? [explainer on internal vs external data in R Packages by @coolbutuseless](https://coolbutuseless.github.io/2018/12/10/r-packages-internal-and-external-data/)
+-   Different packages for different kinds of tests [Rstudio community discussion](https://community.rstudio.com/t/how-to-get-started-with-r-for-production/2954/8):
+    - {testthat} — for package development
+    - {assertthat} — for runtime assertions
+    - {assertr} — for data validation
 
 ## Sharing the Magic
 
@@ -105,6 +115,8 @@ I haven't personally submitted anything ever to CRAN so this is an aspirational 
 ### :bookmark_tabs: [Getting your R package on CRAN, Karl Broman](https://kbroman.org/pkg_primer/pages/cran.html)
 
 ### :clipboard: [ThinkR-open/prepare-for-cran GitHub Repo](https://github.com/ThinkR-open/prepare-for-cran)
+
+### :tv: [Submitting vroom to CRAN, LIVE!](https://www.youtube.com/watch?v=-zID-rVDEHQ)
 
 ## Maintaining Community Magic
 

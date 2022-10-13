@@ -19,3 +19,8 @@ Discussion Notes:
     -   use separate git branches (but also remember no one is judging the stray scraps of code on your github)
     -   create a concept glossary to define the abstractions your package offers, and to track the different names you've considered using to refer to new concepts (e.g. for a function that does something to some input data, you might have used a variety of argument names in your code like: "origin-data", "raw-data", "df_in" etc..)
 
+Other Resources:
+
+-   More discussions on dependencies -- https://www.tinyverse.org
+-   How to name things -- https://github.com/IndrajeetPatil/second-hardest-cs-thing
+-   Snapshot testing -- https://indrajeetpatil.github.io/intro-to-snapshot-testing/#/title-slide
