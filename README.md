@@ -24,3 +24,9 @@ Other Resources:
 -   More discussions on dependencies -- https://www.tinyverse.org
 -   How to name things -- https://github.com/IndrajeetPatil/second-hardest-cs-thing
 -   Snapshot testing -- https://indrajeetpatil.github.io/intro-to-snapshot-testing/#/title-slide
+-   Awesome R Package Development Tools -- https://indrajeetpatil.github.io/awesome-r-pkgtools/
+
+More thoughts:
+
+-   useful to have strict standards/conditions in core functionality
+-   use string variable names to avoid NSE in internal functions
