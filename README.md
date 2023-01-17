@@ -26,6 +26,8 @@ Other Resources:
 -   How to name things -- https://github.com/IndrajeetPatil/second-hardest-cs-thing
 -   Snapshot testing -- https://indrajeetpatil.github.io/intro-to-snapshot-testing/#/title-slide
 -   Awesome R Package Development Tools -- https://indrajeetpatil.github.io/awesome-r-pkgtools/
+-   The Art of Software and Experiment Design (RLadies Melb talk by Emi Tanaka) -- [slides](https://github.com/emitanaka/slides-RLadiesMelb2021/blob/master/emi-tanaka-talk.pdf)
+-   Designing Data Science (Rladies Melb talk by Hadley Wickham) -- [slides](https://github.com/R-LadiesMelbourne/2019-11-26-Hadley-Wickham/blob/master/designing-data-science.pdf), [recording](https://www.youtube.com/watch?v=bNVcDETgS54)
 
 More thoughts:
 
